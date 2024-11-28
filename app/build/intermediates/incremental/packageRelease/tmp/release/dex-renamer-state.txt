@@ -1,0 +1,4 @@
+#Fri Nov 29 00:28:21 TRT 2024
+base.0=C\:\\Users\\cagla\\CascadeProjects\\smsProjectX\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

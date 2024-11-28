@@ -1,0 +1,6 @@
+com.example.smsprojx.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\cagla\.gradle\caches\8.9\transforms\2f5459edfb62a342077a4085fbe97467\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.smsprojx.test.app-jetified-core-1.5.0-1 C:\Users\cagla\.gradle\caches\8.9\transforms\c641a87ef7ee85707c2e16c014f1e002\transformed\jetified-core-1.5.0\res
+com.example.smsprojx.test.app-androidTest-2 C:\Users\cagla\CascadeProjects\smsProjectX\app\build\generated\res\resValues\androidTest\debug
+com.example.smsprojx.test.app-mergeDebugAndroidTestResources-3 C:\Users\cagla\CascadeProjects\smsProjectX\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.smsprojx.test.app-mergeDebugAndroidTestResources-4 C:\Users\cagla\CascadeProjects\smsProjectX\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.smsprojx.test.app-debugAndroidTest-5 C:\Users\cagla\CascadeProjects\smsProjectX\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
